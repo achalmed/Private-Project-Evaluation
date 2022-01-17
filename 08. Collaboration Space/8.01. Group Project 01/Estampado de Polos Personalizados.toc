@@ -1,0 +1,71 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Agradecimientos}{III}{chapter*.2}%
+\contentsline {chapter}{Resumen}{V}{chapter*.3}%
+\contentsline {chapter}{Lista de figuras}{IX}{chapter*.4}%
+\contentsline {chapter}{Lista de tablas}{XI}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Marco general del proyecto}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Nombre del proyecto}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Ubicación del proyecto}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}El Modelo de Negocio CANVAS}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Estrategia empresarial}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Estrategia Organizacional}{4}{subsection.1.4.1}%
+\contentsline {subsubsection}{Misión}{4}{section*.7}%
+\contentsline {subsubsection}{Visión}{4}{section*.8}%
+\contentsline {subsubsection}{Valores de la empresa.}{4}{section*.9}%
+\contentsline {subsection}{\numberline {1.4.2}Objetivos de empresa}{4}{subsection.1.4.2}%
+\contentsline {subsubsection}{En el corto plazo (2021-2022)}{4}{section*.10}%
+\contentsline {subsubsection}{En el mediano plazo (2022-2023)}{5}{section*.11}%
+\contentsline {subsubsection}{En el largo plazo (5 años)}{5}{section*.12}%
+\contentsline {subsection}{\numberline {1.4.3}Estrategia Genéricas de Porter}{5}{subsection.1.4.3}%
+\contentsline {subsubsection}{Estrategia de diferenciación}{5}{section*.13}%
+\contentsline {paragraph}{En el corto plazo:}{5}{section*.14}%
+\contentsline {paragraph}{En el mediano plazo:}{6}{section*.15}%
+\contentsline {paragraph}{En el largo plazo:}{6}{section*.16}%
+\contentsline {subsubsection}{Estrategia de Segmentación}{6}{section*.17}%
+\contentsline {subsection}{\numberline {1.4.4}Estrategia Organizacional}{6}{subsection.1.4.4}%
+\contentsline {subsubsection}{Capital Humano}{6}{section*.18}%
+\contentsline {subsubsection}{Facilitadores tecnológicos.}{7}{section*.19}%
+\contentsline {subsubsection}{Facilitadores organizacionales.}{7}{section*.20}%
+\contentsline {subsection}{\numberline {1.4.5}Innovación del valor mediante la Matriz RICE:}{7}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Matriz Rice.}{7}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}Estrategia Océano Azul.}{7}{subsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.4.8}Cadena de valor.}{8}{subsection.1.4.8}%
+\contentsline {section}{\numberline {1.5}Modelo empresarial}{9}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Estructura societaria de la empresa}{9}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Constitución de la Empresa}{9}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Licencia de funcionamiento}{10}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Tamaño de la empresa}{10}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}Régimen Tributario}{10}{subsection.1.5.5}%
+\contentsline {chapter}{\numberline {2}Inversión y valor de recupero}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Presupuesto de Inversión}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Activos Fijos}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Inversión en Activos Intangibles}{12}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Inversión en Capital de Trabajo}{12}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Horizonte de Evaluación}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Valores de Recupero}{13}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Método Contable}{13}{subsection.2.3.1}%
+\contentsline {chapter}{\numberline {3}Presupuesto de ingresos y egreso}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Presupuesto de ventas}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Presupuesto de costos y gasto}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Costos Unitarios}{16}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Estado de Resultados}{16}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Punto de Equilibrio}{17}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Financiamiento y Costo de Capital}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Fuentes de Financiamiento}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Financiamiento de Terceros}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Costos de Capital Propio (COK)}{21}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Costos de Capital Promedio Ponderado (KWACC)}{21}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Rentabilidad del proyecto}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Premisas}{23}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Flujo de caja Económico y Financiero}{24}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Evaluación Económica y Financiera}{24}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Tasas Interna de Retorno (TIRE)}{25}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Valor actual neto financiero (VANF)}{25}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Tasa Interna de Retorno Financiera (TIRF)}{26}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Análisis de Sensibilidad y Escenarios}{27}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Análisis de los Puntos Críticos}{27}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Análisis de Sensibilidad Unidimensional }{27}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Análisis de sensibilidad bidimensional }{29}{subsection.5.4.3}%
+\contentsline {chapter}{Conclusiones}{31}{chapter*.21}%
+\contentsline {chapter}{Bibliografía}{33}{chapter*.21}%
+\contentsline {chapter}{\numberline {A}Apéndice}{33}{appendix.Alph1}%
